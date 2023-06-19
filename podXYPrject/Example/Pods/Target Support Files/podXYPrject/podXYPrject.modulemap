@@ -1,0 +1,6 @@
+framework module podXYPrject {
+  umbrella header "podXYPrject-umbrella.h"
+
+  export *
+  module * { export * }
+}

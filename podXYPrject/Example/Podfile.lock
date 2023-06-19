@@ -1,0 +1,16 @@
+PODS:
+  - podXYPrject (0.1.0)
+
+DEPENDENCIES:
+  - podXYPrject (from `../`)
+
+EXTERNAL SOURCES:
+  podXYPrject:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podXYPrject: 8fe78c6f0c8caddfc75bbbcca0c7421111f2fa2d
+
+PODFILE CHECKSUM: edf10d91459a3cbdfb512866d1ba0d646fe8913a
+
+COCOAPODS: 1.11.3
